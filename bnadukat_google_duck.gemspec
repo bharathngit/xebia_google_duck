@@ -33,6 +33,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.2.0"
   spec.add_development_dependency "selenium-webdriver", "~> 3.142.6"
+  spec.add_development_dependency "faraday", "~> 1.3.0"
   # For more information and examples about making a new gem, checkout our
   # guide at: https://bundler.io/guides/creating_gem.html
 end

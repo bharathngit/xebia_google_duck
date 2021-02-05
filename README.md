@@ -1,8 +1,9 @@
 # BnadukatGoogleDuck
+This project was created for assignement from xebia/aspiration . 
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/bnadukat_google_duck`. To experiment with that code, run `bin/console` for an interactive prompt.
+- Create a test suite using Cucumber/Selenium + your language of choice (we use Ruby here) that searches Google for ducks and write any tests that you see fit that would verify that ducks were properly searched for. Use Page Objects
+- Create a test suite using rspec/faraday that performs a GET on https://jsonplaceholder.typicode.com/posts. Write any tests you see fit.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +23,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
 
 ## Development
 

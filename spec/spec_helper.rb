@@ -1,6 +1,9 @@
 # frozen_string_literal: true
-
+require "bundler/setup"
+require "logger"
+require "selenium-webdriver"
 require "bnadukat_google_duck"
+
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
